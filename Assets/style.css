@@ -1,0 +1,65 @@
+/* CSS for index.html */
+* {
+  box-sizing: border-box;
+}
+
+/* Background image */
+body, html {
+  background-color: white;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+a.navbar-brand {
+  font-size: 30px;
+}
+
+nav {
+  font-weight: bold;
+  font-family: Trebuchet;
+}
+
+ul {
+  font-size: 20px;
+}
+
+#mainCard {
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+h1 {
+  font-family: Georgia, serif;
+}
+
+p {
+  font-weight: normal;
+  font-size: 20px;
+  font-family: serif;
+}
+
+/* Margins for Images */
+.img-thumbnail {
+  margin: 4%;
+}
+
+/* Footer CSS */
+footer {
+  position: sticky;
+  font-weight: bold;
+  color: black;
+  clear: both;
+  bottom: 0%;
+  margin-top: 20%;
+}
+
+#BR {
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+#Year {
+  text-align: center;
+  font-size: 12px;
+}
