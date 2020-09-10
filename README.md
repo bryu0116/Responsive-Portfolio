@@ -3,7 +3,7 @@
 This Portfolio was created to show my work and multiple projects in the Penn LPS Full Stack Coding Boot Camp.
 
 Screenshots
-[View the deployed web application.](https://bryu0116.github.io/Reponsive-Portfolio/)
+[View the deployed web application.](https://bryu0116.github.io/Responsive-Portfolio/)
 
 About:
 <img src="Assets/AboutScreenshot.jpg" alt="About screenshot">
