@@ -1,6 +1,6 @@
 # Responsive Portfolio
 ## Overview
-This Portfolio was created to show my work and multiple projects in the Penn LPS Full Stack Coding Boot Camp.
+This Portfolio was created to show my work and multiple projects in the Penn LPS Full Stack Coding Boot Camp. Skills learned include: HTML5, CSS3, JavaScript, jQuery, Bootstrap.
 
 ## Screenshots
 * **[View the deployed web application.]()**(https://bryu0116.github.io/Responsive-Portfolio/)
